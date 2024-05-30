@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Application-Id: Protobuf3Example
-Application-Version: 1.0.0
-Application-PrintableName: protobuf3example
-Application-Description: protobuf3example
-
